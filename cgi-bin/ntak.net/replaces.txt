@@ -1,0 +1,3 @@
+うさだ,<span style="color: pink;">うさだ</span>
+金日成,<span style="font-weight: bold;">金日成</span>
+金正日,<span style="font-weight: bold;">金正日</span>

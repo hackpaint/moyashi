@@ -1,0 +1,56 @@
+* {
+	font-family: "ＭＳ ゴシック", "MS Gothic", "Osaka－等幅", "Osaka-mono", "monospace";
+	line-height: 1.2em;
+}
+
+body {
+	background-color: #004040;
+	color: white;
+}
+
+h1 {
+	text-align: center;
+	font-size: 1.5em;
+	text-decoration: underline;
+}
+
+h2 {
+	font-size: 1.3em;
+}
+
+p {
+	margin-left: 1em;
+	margin-right: 1em;
+}
+
+tt {
+	background-color: black;
+	padding: 0.2em;
+}
+
+code {
+	color: white;
+	background-color: #006060;
+	display: block;
+	margin: 1em 2em 1em 2em;
+	padding: 0 1em 1em 1em;
+	white-space: pre;
+	border: 1px solid #008080;
+}	
+
+a:link {
+	color: white;
+}
+a:visited {
+	color: gray;
+}
+a:hover {
+	color: red;
+}
+a:active {
+	color: yellow;
+}
+
+footer {
+	text-align: right;
+}

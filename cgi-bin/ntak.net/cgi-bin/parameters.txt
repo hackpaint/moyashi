@@ -1,0 +1,31 @@
+appletouchiconfilename,./apple-touch-icon.png
+attacksfilename,./attacks.txt
+audiencesfilename,./audiences.txt
+audiencesseconds,3600
+bgcolor,004040
+botsfilename,./bots.txt
+cginame,bbs.cgi
+counterlevel,5
+counterprefix,./counter
+cssfilename,./bbs.css
+defaultarticles,50
+defaultimodearticles,10
+faviconfilename,./favicon.ico
+headlinks,
+hotbuttoncolor,color: red; background-color: white
+imodetitle,初期設定
+noticeexp,■をクリックすると返事が書けます。タグは使えません。リロードすると新規書き込みが表示されます。
+noticestable,■をクリックすると返事が書けます。タグは使えません。リロードすると新規書き込みが表示されます。
+noticetrad,■をクリックすると返事が書けます。タグは使えません。リロードすると新規書き込みが表示されます。
+placeholder, 
+replaces,./replaces.txt
+res,color: white
+ruler,color: white
+stablelinkline,<a href="bbs.cgi?autoreload=1">自動更新</a> | <a href="bbs.cgi?trad=1">通常表示</a> | <a href="bbs.cgi?tree=1">ツリー表示</a> | <a href="bbs.cgi?exp=1">実験表示</a> | <a href="bbs.cgi?i=1">i-mode</a> | 
+stablelinklineafter,<span class="nav"> | <span id="vanish"></span> | <span id="picture"></span></span>
+startdate,2016/01/01 から
+title,あやしいわーるど＠初期設定
+tradresbutton,■
+writelimitcount,2
+writersfilename,./writers.txt
+writersseconds,15

@@ -1,0 +1,38 @@
+infolink,<a href="ntak.net.info.html">広報</a>&nbsp;&nbsp;
+audiences,現在の参加者(3600秒以内) %d
+audiencesattack,attack %d
+audiencesbot,bot %d
+bcwriter,投稿者
+bcmail,メール
+bctitle,題名
+bcreset,消す
+postbutton,　投稿　
+reloadbutton,リロード
+postreloadbutton,　投稿／リロード　
+zeroreload,未読のみ
+newerreload,最新%d件
+normalboard,&lt;- 戻る<br><br>
+bccontent,内容
+bclink,リンク
+bcdisp,表示件数
+deleted,(削除済み)
+config,設定
+defwriter,ブックマークから板を開いた時の投稿者欄：
+defarticles,ブックマークから板を開いた時の表示件数（空欄で %d 件）：
+ngword,無表示にする単語を半角 | で区切って並べてください：
+bgword,背景の色：
+deftarget,レス画面を別窓で開く：
+bcconfig,(クッキーを受け取る設定にしてください。)
+configchange,設定変更
+nextpage,次のページ
+footercomment,以上です。
+scriptname,もやしスクリプト
+reshere,(この位置に返事を追加します)
+resclick,返事を書く
+traddate,投稿日：
+traduser,投稿者：
+tradres,参考：
+defdisplay,デフォルトの表示形式
+defdisplaytrad,標準
+defdisplaytree,ツリー
+defdisplayexp,実験

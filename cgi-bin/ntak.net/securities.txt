@@ -1,0 +1,5 @@
+username,高崎
+password,<censored>
+logprefix,./ntak.net/logs/
+logpostfix,.log
+ghostprefix,./ntak.net/glogs/

@@ -1,0 +1,4 @@
+msnbot
+googlebot
+baiduspider
+proxy

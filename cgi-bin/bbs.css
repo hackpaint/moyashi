@@ -1,0 +1,121 @@
+body, input, textarea, pre {
+  font-family: '-apple-system', 'MS Gothic', 'Osaka-mono', 'monospace';
+}
+body {
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+u {
+  text-decoration: none;
+}
+hr {
+  width: 100%;
+}
+a:link {
+  color: white;
+}
+a:visited {
+  color: lightgray;
+}
+a:hover {
+  color: red;
+}
+a:active {
+  color: yellow;
+}
+img.topright {
+  position: absolute;
+  top: 0%;
+  right: 0%;
+}
+.shadow {
+  padding: 0.5em;
+}
+.title {
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-right: 1em;
+}
+.notice {
+  font-style: italic;
+}
+.counter, .audiences {
+  font-size: 0.8em;
+}
+.article {
+  font-size: 10pt;
+  padding: 0 1em;
+  margin: 0;
+  white-space: pre;
+  word-wrap: break-word;
+  white-space: nowrap;
+}
+.newitem {
+  color: lightblue;
+}
+.datetime {
+  margin: 0 0 1em 0;
+  font-size: 0.8em;
+}
+.infoline {
+  font-weight: bold;
+  color: gray;
+}
+.links {
+  font-size: 0.8em;
+}
+.links a:hover {
+  color: red;
+}
+textarea {
+  overflow: auto;
+}
+input[type=text]:focus, textarea:focus {
+  background-color: #E8F0F0;
+}
+input[type=submit]:focus, input[type=reset]:focus {
+  color: white;
+  background-color: #404040;
+}
+.nav {
+  font-size: 0.8em;
+  letter-spacing: -0.2em;
+}
+.nav a {
+  letter-spacing: normal;
+}
+.nav a:hover {
+  color: red;
+}
+.usage {
+  font-size: 0.8em;
+}
+.res:hover {
+  color: red;
+}
+.line, .l {
+  padding: 0.25em;
+}
+pre {
+  font-size: 10pt;
+}
+.tentori {
+  font-size: 0.8em;
+  white-space: nowrap;
+  text-decoration: underline;
+  cursor: pointer;
+}
+.tentori:hover {
+  color: red;
+}
+u.ruler, u.r {
+  opacity: 1.0;
+}
+u.trip {
+  font-style: italic;
+  font-weight: 100;
+}
+.waratamark {
+  font-size: 0.85em;
+}

@@ -1,0 +1,3 @@
+messages,./ntak.net/messages.txt
+parameters,./ntak.net/parameters.txt
+securities,./ntak.net/securities.txt

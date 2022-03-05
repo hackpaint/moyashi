@@ -1,0 +1,16 @@
+appletouchiconfilename,./ntak.net/apple-touch-icon.png
+audiencesfilename,./ntak.net/audiences.txt
+counterprefix,./ntak.net/counter
+cssfilename,./ntak.net/bbs.css
+faviconfilename,./ntak.net/favicon.ico
+ghostsfilename,./ntak.net/ghosts.txt
+imgdir,ntak.net/img
+imodetitle,森
+infoline,<div style="color:yellow;text-align:center">いつも心にヽ(´ー｀)ノもっちゃりを</div><br>
+linkline,<a href="http://www.jca.apc.org/ariake/cgi-bin/bbs.cgi">有明</a> | <a href="http://meiso.s147.xrea.com/bbs.cgi">ﾒｲｿ</a> | <a href="http://www3.ezbbs.net/29/kuzu/">屑</a> | <a href="http://stw.r.ribbon.to/bbs.php">蛭ヶ岳</a> | <a href="http://kuzu88.y.ribbon.to/cgi-bin/bbs.cgi">＠２０２２</a> | <a href="http://ntak.net/" style="color:lightgreen">森</a> <a href="https://zawazawa.jp/forest_near_the_lake_wiki/" style="color:lightgreen">wiki</a> | <a href="http://pikachiu.org/cgi-bin/pikachiu.cgi" style="color:yellow">ぴかちう</a> | <a href="http://nazobbs.org/" style="color:red">なぞ</a> | <a href="http://namikare.org/cgi-bin/nami.cgi" style="color:gold">なみかれ</a> | <a href="http://ntak.net/">ホームページ</a>
+ngidentfilename,./ntak.net/ngident.txt
+replaces,./ntak.net/replaces.txt
+startdate,2013/03/06 から
+tentoridirname,./
+title,あやしいわーるど＠湖畔の森
+writersfilename,./ntak.net/writers.txt
